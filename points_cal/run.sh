@@ -1,0 +1,1 @@
+cat in.txt | python points_cal.py > result.txt
